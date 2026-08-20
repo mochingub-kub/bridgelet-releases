@@ -17,7 +17,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mochingub-kub/bridgelet-releases/releases/tag/v0.7.6-beta.1"><strong>Download Bridgelet 0.7.6 Beta 1</strong></a>
+  <a href="https://github.com/mochingub-kub/bridgelet-releases/releases/download/v0.7.6-beta.1/Bridgelet-0.7.6-build77-macos-arm64-no-cost.zip"><strong>Download for Apple Silicon (.zip)</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/mochingub-kub/bridgelet-releases/releases/tag/v0.7.6-beta.1">Release notes</a>
 </p>
 
 <p align="center">
@@ -97,7 +99,7 @@ macOS controls Accessibility and Screen Recording consent in **System Settings �
 
 ## Install and first-time setup
 
-1. Download `Bridgelet-0.7.6-build77-macos-arm64-no-cost.zip` from the [release page](https://github.com/mochingub-kub/bridgelet-releases/releases/tag/v0.7.6-beta.1).
+1. [Download `Bridgelet-0.7.6-build77-macos-arm64-no-cost.zip`](https://github.com/mochingub-kub/bridgelet-releases/releases/download/v0.7.6-beta.1/Bridgelet-0.7.6-build77-macos-arm64-no-cost.zip) directly from the current release.
 2. Verify the ZIP checksum using the instructions below before opening it.
 3. Unzip the download and move `Bridgelet.app` to `/Applications`.
 4. Open Bridgelet normally. If macOS blocks this non-notarized beta, use **System Settings → Privacy & Security → Open Anyway**. Do not disable Gatekeeper globally.
